@@ -1,0 +1,7 @@
+{
+    "mongo_host": "mongodb://feed-it:gjPLBkdx6hkjaQvo@cluster0-shard-00-00-aumz3.mongodb.net:27017,cluster0-shard-00-01-aumz3.mongodb.net:27017,cluster0-shard-00-02-aumz3.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true",
+    "host": "'mongodb://localhost:27017/feedit'",
+    "server_port": "1988",
+    "jwt_key": "rssfeeder",
+    "jwt_expire": "1h"
+}
